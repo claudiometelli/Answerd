@@ -6,15 +6,18 @@ Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <5
 
 ## Partecipanti
 I partecipanti sono:
-Claudio Metelli
-Michele Volonghi
-Elia Di Bennardo
+
+[Claudio Metelli](https://github.com/claudiometelli)
+
+[Michele Volonghi](https://github.com/Zakmy)
+
+[Elia Di Bennardo](https://github.com/eliuzhc)
 
 ## Ruoli
 
 * PROJECT_MANAGER = Claudio Metelli
-* DOCUMENTAZIONE = Elia Di Bennardo
-* CSS = Michele Volonghi
+* DOCUMENTAZIONE = Elia Di Bennardo, Claudio Metelli
+* CSS = Michele Volonghi , Elia Di Bennardo
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
