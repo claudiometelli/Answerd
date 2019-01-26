@@ -1,4 +1,4 @@
-# User Stories
+# USER STORIES
 
 Come utente voglio poter effettuare una partita
 
@@ -13,6 +13,10 @@ Come utente voglio poter visualizzare i risultati migliori ed i relativi tempi p
 # CASI D'USO
 
 [Diagramma dei casi d'uso](https://drive.google.com/file/d/1PntM0RLL1Apt2L9shRKrXicPBE8CTvP1/view?usp=sharing)
+
+# DIAGRAMMA DELLE CLASSI
+
+[Diagramma delle classi](https://drive.google.com/open?id=1mjNzGmBfLf7_DW333NTcxYYVl3px6JIG)
 
 # DIAGRAMMI DI SEQUENZA
 
