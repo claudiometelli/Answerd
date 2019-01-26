@@ -1,0 +1,97 @@
+body { 
+  background: url(./../img/wallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: maniaco;
+  src: url(./../font/Maniac.ttf);
+}
+
+.titolo {
+  text-align: center;
+  color: white;
+  font-size: 150px;
+  font-family: maniaco;
+}
+
+.buttono {
+  background-color: #4CAF50;
+  color: white;
+  height: 100px;
+  width: 30%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  border: 2px solid white;
+}
+
+.buttono:hover {
+  background-color: white;
+  color: #4CAF50;
+  border: 20px solid #4CAF50;
+}
+
+.asdini {
+  border: 3px solid black;
+  height: 100px;
+  background-color: #008CBA;
+  color:white;
+  font-size: 30px;
+  }
+
+.asdini:hover {
+  background-color: #057093;
+}
+
+.backhome {
+  background-color: #4285F4;
+  color: white;
+  height: 60px;
+  text-align: center;
+  font-size: 20px;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  border: 2px solid white;
+}
+
+.backhome:hover {
+  background-color: white;
+  color: #0d47a1;
+  border: 10px solid #0d47a1;
+}
+.progress-bar {
+  position: relative;
+  height: 30px;
+  width: auto;
+  border: 1px solid black;
+  background: white;
+  margin: 0;
+}
+.filler {
+  background: white;
+  height: 100%;
+  border-radius: inherit;
+}
+
+.sfumatino {
+  background-color: 	rgba(0, 0, 0,0.3);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0d47a1;
+  color: white;
+  text-align: center;
+}
