@@ -1,4 +1,4 @@
-# User Story
+# User Stories
 
 Come utente voglio poter effettuare una partita
 
