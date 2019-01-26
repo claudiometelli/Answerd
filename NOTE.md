@@ -12,11 +12,8 @@ Come utente voglio poter visualizzare i risultati migliori ed i relativi tempi p
 
 # CASI D'USO
 
-Diagramma
+[Diagramma dei casi d'uso](https://drive.google.com/file/d/1PntM0RLL1Apt2L9shRKrXicPBE8CTvP1/view?usp=sharing)
 
 # DIAGRAMMI DI SEQUENZA
 
-[ ] AZIONE 1
-  [ ] step 1
-  [ ] step 2
-  ....
+[Diagramma di sequenza](https://drive.google.com/open?id=17eS7N0rE670cFZhQ0IKOGOffJA-xXU5m)
