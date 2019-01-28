@@ -32,7 +32,7 @@ I partecipanti e creatori del progetto sono:
 ## Ruoli
 
 * PROJECT_MANAGER = Claudio Metelli
-* DOCUMENTAZIONE = Elia Di Bennardo, Claudio Metelli
+* DOCUMENTAZIONE = Claudio Metelli
 * CSS = Michele Volonghi , Elia Di Bennardo
 
 ## Regolamento
